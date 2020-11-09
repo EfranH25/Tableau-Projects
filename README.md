@@ -2,4 +2,4 @@
 
 This Repo contains my work in Tableau.
 
-The Data Science Course folder contains my work for the Data Scientist elearning course for Tableau.
+The Tableau Funcitons folder contains Tableau workbooks displaying various beginner, intermediate, and advanced tableau functions I have created. 
